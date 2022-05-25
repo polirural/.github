@@ -7,4 +7,4 @@ The management of data publishing has been described in the deliverable [D8.2 - 
 
 This repository is part of the [PoliRural Innovation Hub](https://hub.polirural.eu/)
 
-![Polirural](logo_polirural.png)
+![Polirural](/profile/logo_polirural.png)
