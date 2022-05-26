@@ -5,6 +5,4 @@ In order for policymakers to solve these challenges, they need to know if curren
 
 The management of data publishing has been described in the deliverable [D8.2 - Data Management Plan](https://polirural.eu/wp-content/uploads/2021/11/D8.2..pdf) (April, 2021) and envision the [**OpenAIRE**](https://www.openaire.eu/) philosophy and the [**Zenodo**](https://zenodo.org/) infrastructure of repositories in order to accomplish the **FAIR** principles (**F**indability, **A**ccessibility, **I**nteroperability and **R**eusability).
 
-Repositories in here are part of the [PoliRural Innovation Hub](https://hub.polirural.eu/).
-
 ![Polirural](/profile/logo_polirural.png)
