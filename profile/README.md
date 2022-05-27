@@ -2,6 +2,12 @@
 
 Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
 
+---
+
+[Web page](https://polirural.github.io/repos/)
+
+---
+
 To make rural areas more attractive for living, work and investments, PoliRural will leave decision makers at different levels of government better equipped to tackle existing and emerging rural challenges, rural populations more empowered and rural areas more resilient.
 
 H2020 projects participate in the **Open Research Data Pilot** must deposit data project in a research data repository. This repository contains the specialised software code of two technical outputs of the project: **The Innovation Hub and the System Dynamics (SD) tools**. The **Hub** is a platform for publishing all PoliRural results for further exploitation by the community. **System Dynamics** helps to evaluate policy impacts under different scenarios.
