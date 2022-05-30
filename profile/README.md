@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)
+
 ## Welcome 👋
 
 Depopulation, land abandonment and the loss of biodiversity are changes that may proceed very slowly yet are often irreversible. In order for policymakers to solve these challenges, they need to know if current policy instruments are effective, who is benefiting from them and in what measure, what driving forces will be most influential and how they will affect the people, and the planet.
