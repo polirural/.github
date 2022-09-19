@@ -4,6 +4,8 @@
 
 ![Polirural](/profile/logo_polirural.png)
 
-Framed in the *Working Package 3* (**Innovation Hub & System Dynamics Technology**), this [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations) is focused in collecting some important models and data from the *task 3.5*, **Final Integration, Release & Licensing**.
+Framed in the task T3.5 Final Integration, Release & Licensing within the Working Package 3 (**Innovation Hub & System Dynamics Technology**), this GitHub Organization is focused on hosting the source code of both DIH and Open source System Dynamics tool.
 
 For more information please visit the GitHub Page [polirural.github.io/repos/](https://polirural.github.io/repos/)
+
+
