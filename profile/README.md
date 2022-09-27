@@ -1,4 +1,4 @@
-[![Status](https://img.shields.io/badge/Status-Work%20in%20progress-orange?style=plastic)](https://github.com/polirural)
+[![Status](https://img.shields.io/badge/Status-Ready-green?style=plastic)](https://github.com/polirural)
 
 ## Welcome 👋
 
